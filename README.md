@@ -1,3 +1,4 @@
+<img width="221" alt="image" src="https://user-images.githubusercontent.com/87106205/173391959-c6266e62-3b5f-4148-8938-964be504b965.png">
 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
